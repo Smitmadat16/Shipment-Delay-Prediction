@@ -51,8 +51,10 @@ Download it and place it in same directory as final_project.ipynb
  3. Reload or restart the kernel and run all the cells 
 
  How to Run the Web App: 
- 1. Install:  pip install -r requirements.txt
- 2. Run App: streamlit run app.py
+ 1. First of all download 2 files : save_model.py and app.py
+ 2. Go to terminal and type :   python -m pip install streamlit
+ 3.  Once everything gets installed, type cd (Folder Name). Wherever you download app.py and save_model.py remember the folder name. Eg If u download app.py and        save_model.py in download folders then : cd Downloads
+ 4. Next once u enter that folder type:  streamlit run app.py and it will take you to website
 
  Model Performance
 
@@ -70,7 +72,8 @@ Download it and place it in same directory as final_project.ipynb
 
  Streamlit Application
    * App allows users to predict shipment delay status by entering shipment details like region, and so on, and get the percentage of how much it will be delayed.
-Note: rf_model.pkl and model_columns.pkl are generated automatically when you run all cells in codebench (Jupyter file) - final_project.ipynb. 
+Note: rf_model.pkl and model_columns.pkl are generated automatically when you run all cells in codebench (Jupyter file) - final_project.ipynb.
+      Also supplychain.db will be downloaded automatically. 
 
 
 
