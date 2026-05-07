@@ -39,15 +39,20 @@ Download it and place it in same directory as final_project.ipynb
  /Final Project/
  -- final_project.ipynb       ## Main Notebook
  -- app.py                    ## Code for App
- -- dataco_supply_chain.csv   ## Data set
+ -- save_model.py             ## Code for saving Model
+ -- Demo Vedio Link.txt       ## youtube vedio Link
+ -- Final Report.pdf          ## pdf of Final report
+ -- Github Link.txt           ## Github Link
+ -- DataCoSupplyChainDataset.csv   ## Data set
  -- rf_model.pkl              ## Random Forest Model
  -- model_columns.pkl         ## Feature columns for prediction
  -- requirements.txt          ## Required Libraries
  -- README.md                 ## Project documentation
+ -- Supply_chain.db           ## after running the code.
 
  How to Run the Notebook: 
  1. Open 'final_project.ipynb' on codebench
- 2. Download 'dataco_supply_chain.csv' and put it in Codebench in the same directory
+ 2. Download 'DataCoSupplyChainDataset.csv' and put it in Codebench in the same directory
  3. Reload or restart the kernel and run all the cells 
 
  How to Run the Web App: 
