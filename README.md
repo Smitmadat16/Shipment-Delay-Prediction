@@ -1,5 +1,11 @@
 Shipment Delay Prediction System
 
+## Most Important- Note
+Dataset: https://drive.google.com/drive/folders/1I-h-HZPXzQZzOU6iF7YrS8XLQD1NcbeW  
+                                 OR 
+         https://data.mendeley.com/datasets/8gx2fvg2k6/5 - Use this link and download file one with 91.5 MB
+Download it and place it in same directory as final_project.ipynb
+
  Outline:   
    * This project uses Data loading and Preprocessing, Feature Engineering, Data     Analysis, SQL-based querying, Machine Learning, and Model Training to investigate Shipment delays in e-commerce supply chains. 
    * The main goal is to predict shipment delay of items ordered using trends linked to shipping delay and to predict whether a shipment will be delayed or not by creating prediction models. 
