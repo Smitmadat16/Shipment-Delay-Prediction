@@ -62,6 +62,8 @@ Shipment Delay Prediction System
    * Machine Model predicted shipment delays using operational and categorical features.
 
  Streamlit Application
-   * App allows users to predict shipment delay status by entering shipment details like region, and so on, and get the percentage of how much it will be delayed. 
+   * App allows users to predict shipment delay status by entering shipment details like region, and so on, and get the percentage of how much it will be delayed.
+Note: rf_model.pkl and model_columns.pkl are generated automatically when you run all cells in codebench (Jupyter file) - final_project.ipynb. 
+
 
 
