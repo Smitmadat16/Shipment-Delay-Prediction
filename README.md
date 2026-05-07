@@ -72,6 +72,8 @@ Download it and place it in same directory as final_project.ipynb
 
  Streamlit Application
    * App allows users to predict shipment delay status by entering shipment details like region, and so on, and get the percentage of how much it will be delayed.
+
+     
 Note: rf_model.pkl and model_columns.pkl are generated automatically when you run all cells in codebench (Jupyter file) - final_project.ipynb.
       Also supplychain.db will be downloaded automatically. 
 
